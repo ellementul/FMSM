@@ -1,0 +1,22 @@
+{
+  "name": "@ellementul/state-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ellementul/FMSM.git"
+  },
+  "keywords": [
+    "state_machine"
+  ],
+  "author": "Ellementul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellementul/FMSM/issues"
+  },
+  "homepage": "https://github.com/ellementul/FMSM#readme"
+}
