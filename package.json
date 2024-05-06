@@ -1,10 +1,11 @@
 {
   "name": "@ellementul/state-machine",
   "version": "1.0.0",
-  "description": "",
+  "description": "Friendly Minimal State Machine",
+  "type":"module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ellementul/FMSM/issues"
   },
-  "homepage": "https://github.com/ellementul/FMSM#readme"
+  "homepage": "https://github.com/ellementul/FMSM#readme",
+  "dependencies": {
+    "ava": "^6.1.3"
+  }
 }
