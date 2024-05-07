@@ -1,6 +1,6 @@
 {
   "name": "@ellementul/state-machine",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Friendly Minimal State Machine",
   "type":"module",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "url": "https://github.com/ellementul/FMSM/issues"
   },
   "homepage": "https://github.com/ellementul/FMSM#readme",
-  "dependencies": {
+  "devDependencies": {
     "ava": "^6.1.3"
   }
 }
